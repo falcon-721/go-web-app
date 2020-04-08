@@ -4,7 +4,8 @@ Simple web app template written with Golang + Bootstrap 4
 
 ## Usage
 
-Clone this repo and go to that folder:
+Install [Golang](https://golang.org/)  
+Clone this repo and go to that folder
 
 ```bash
 go run main.go
@@ -16,7 +17,7 @@ Default server run on port 8080, browse to
 
 Get result
 
-![Demo](demo.png)
+![Demo](demo.PNG)
 
 ## License
 
